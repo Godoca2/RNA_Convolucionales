@@ -3,7 +3,7 @@
 Este proyecto implementa y compara varios modelos de redes neuronales para la clasificación de imágenes, utilizando el dataset de **Muffin vs Chihuahua** disponible en [Kaggle](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification). La tarea principal es diferenciar entre imágenes de muffins y chihuahuas, dos categorías visualmente similares.
 
 
-https://github.com/Godoca2/RNA_Convolucionales/blob/main/Image/Chigugua.jpg
+![MLA](Image/Chigugua.jpg)
 
 ## Tabla de Contenidos
 - [Descripción del Proyecto](#descripción-del-proyecto)
